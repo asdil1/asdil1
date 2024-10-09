@@ -1,7 +1,7 @@
 <div>
 
   <div id="header" align="center">
-    <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg0NTY3NTgsIm5iZiI6MTcyODQ1NjQ1OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA5VDA2NDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0MTUxMDI2ZGZiMTBlOTc2Y2RmMzFjZmE4ZTcwYjhiMTk2NWFjMWJlOTA0NDk0YWFlNTc2ZGZkN2I0MTI2MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SSr--0hti3qA5qqdQEnUYfzayIbUyuizaqETYRx7HWE" width="100%"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiejFiY2NjaXpiOXE2cWxlNmJuY3BldGp4Mm1lcHVxdThhdWxteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" width="100%"/>
   </div>
   
   ### :hammer_and_wrench: Languages and Tools :
